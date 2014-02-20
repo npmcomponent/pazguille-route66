@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [pazguille/route66](http://github.com/pazguille/route66). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/pazguille-route66`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # J.S. Route 66
 
 Simple and tiny hash router library for web browsers. J.S. Route 66 is used for routing your web application URL's when using hash tags(#). Eg: www.example.com/#pazguille or www.example.com/#!/pazguille

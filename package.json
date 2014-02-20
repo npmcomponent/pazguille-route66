@@ -1,0 +1,13 @@
+{
+  "name": "pazguille-route66",
+  "description": "Simple routing library using hashbang for web browsers",
+  "version": "0.1.0",
+  "keywords": [
+    "routes",
+    "hash",
+    "popstate",
+    "history"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
